@@ -144,4 +144,3 @@ This project successfully developed a Machine Learning-based Credit Scoring Syst
 
 ---
 
-###  If you found this project useful, consider giving it a star.
